@@ -1,0 +1,135 @@
+@charset "utf-8";
+body {  
+padding: 0;   
+margin:  0;   }  
+
+img {position: absolute;} 
+
+.Enzo-Sleep {
+  left: 210px;
+  top: 150px;
+	width:400px;
+	height:300px;
+}
+body {  
+padding: 0;   
+margin:  0;   } 
+
+img {position: absolute;} 	
+.mouse{
+left: 620px;
+top: 300px;
+width:200px;
+height:150px;	
+}	
+body {  
+padding: 0;   
+margin:  0;   } 
+
+img {position: absolute;} 	
+.catfood{
+left: 80px;
+top: 350px;
+width:100px;
+height:75px;	
+}	
+body {  
+padding: 0;   
+margin:  0;   } 
+
+img {position: absolute;} 	
+.toy{
+left: 630px;
+top: 150px;
+width:300px;
+height:205px;	
+}	
+body {
+	padding: 0;
+	margin: 0;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #FFFFFF;
+}  
+
+img {position: absolute;} 
+
+.HelpEnzoWakeUp {
+  left: 5px;
+  top: 0px;
+	
+}
+
+img {position: absolute;} 
+
+.Enzoup {
+  left: 5px;
+  top: 0px;
+
+	
+}
+
+img {position: absolute;} 
+
+.lips {
+  left: 350px;
+  top: 750px;
+
+}
+
+.button {
+	position: absolute;
+	left: 450px;
+	top: 1020px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+
+
+}
+.controls {
+  position: absolute;
+  left: 420px;
+	top:1070px;
+}
+.enzovid{
+position: absolute;
+  width: 250px;
+	left:100px;
+}
+
+img {position: absolute;} 
+
+.drop {
+transform: scaleX(-1);
+  left: 0px;
+  top: 1100px;
+	width:600px;
+	height:770px;
+}
+img {position: absolute;} 
+
+.speech {
+  left: 500px;
+  top: 1150px;
+	width:400px;
+	height:270px;
+	
+}
+img {position: absolute;} 
+
+.speech {
+  left: 500px;
+  top: 1150px;
+	width:400px;
+	height:270px;
+	
+}
+
+
+.meowspeech {
+  position: absolute;
+left: 570px;
+  top: 1220px;
+	
+}
+	
+
